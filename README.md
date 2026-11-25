@@ -46,13 +46,20 @@ All three slicers are connected to the dashboard KPIs and charts, allowing users
 
 ## 🔍 Key Insights
 
-Based on the analysis:
+1. **Patient Analysis:** Patient count and hospital billing change dynamically based on selected departments, months, and admission dates.
 
-- **Cardiology** has the highest number of patients, with 9 patients.
-- Cardiology has an average stay of 6 days and an average rating of 3.5.
-- **Pediatrics** has the lowest number of patients, with 4 patients.
-- Pediatrics has an average rating of 3 and an average age of 2.
-- **Gastroenterology** has the highest total billing among the hospital departments.
+2. **Gender Distribution:** The dashboard highlights the distribution of male and female patients, helping identify gender-wise admission patterns.
+
+3. **Insurance Analysis:** The dashboard compares different insurance providers, including Ayushman Bharat, CGHS, HDFC Ergo, and ICICI Lombard, along with patients without insurance.
+
+4. **Hospital Billing:** Total billing varies across different filter selections, allowing a comparison of billing performance across departments and time periods.
+
+5. **Patient Stay & Age:** Average length of stay and average patient age provide insights into patient demographics and hospital utilization.
+
+6. **Ward Utilization:** General, ICU, Private, and Semi-Private ward distributions help understand patient allocation across different wards.
+
+7. **Interactive Analysis:** Department slicers, month filters, and admission date timelines allow users to explore hospital data from multiple perspectives.
+
 
 ## 🛠️ Tools & Technologies Used
 
